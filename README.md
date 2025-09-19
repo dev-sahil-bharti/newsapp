@@ -1,4 +1,4 @@
-# 📰 news-Honesty
+# 📰 News-Honesty
 
 <!-- <a href="https://mayankflix.netlify.app/">Live Demo</a> -->
 
@@ -7,9 +7,9 @@
 <img src="./screenshots/2.png" height="300">
 </div>
 
-**news-Honesty** is a modern React-based news web application that provides the **top and latest news** from different categories such as **Business, Technology, Health, Entertainment, General, Science, and Sports**.
 
 # It uses the [NewsAPI](https://newsapi.org) to fetch real-time news data.
+**news-Honesty** is a modern React-based news web application that provides the **top and latest news** from different categories such as **Business, Technology, Health, Entertainment, General, Science, and Sports**.
 
 ---
 
