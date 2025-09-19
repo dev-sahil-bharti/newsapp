@@ -50,5 +50,3 @@
     ```bash
     npm start
     ```
-
-```
