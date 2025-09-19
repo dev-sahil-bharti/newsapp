@@ -1,6 +1,6 @@
 # 📰 News-Honesty
 
-<-- <a href="https://dev-sahil-bharti.github.io/newsapp/">Live Demo</a> -->
+<!-- <a href="https://dev-sahil-bharti.github.io/newsapp/">Live Demo</a> -->
 
 <div>
 <img src="./screenshots/1.png" height="300">
